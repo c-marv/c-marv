@@ -1,0 +1,3 @@
+```javascript
+greetings('Hello World');
+```
